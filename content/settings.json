@@ -1,26 +1,26 @@
 {
-  "store_id": 43716,
-  "name": "sexshopgoiania",
   "domain": "sexshopgoiania.netlify.app",
-  "short_name": "sexshopgoiania",
-  "description": "sexshopgoiania",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "pulse",
+    "custom": "clean-dark"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#000000",
+  "repository": "ecomplus-stores/sexshopgoiania",
+  "logo": "https://sexshop.goiania.br/wp-content/uploads/2021/11/logo-ifody-sexshop.webp",
+  "name": "Sex Shop Goiânia",
+  "short_name": "sexshopgoiania",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/sexshopgoiania",
+  "mini_logo": "",
+  "font_family": "Poppins",
+  "favicon": "https://sexshop.goiania.br/wp-content/uploads/2021/11/cropped-favicon_1-180x180.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "https://sexshop.goiania.br/wp-content/uploads/2021/11/logo-ifody-sexshop.webp",
+  "store_id": 43716,
+  "description": "sexshopgoiania",
+  "large_icon": "https://sexshop.goiania.br/wp-content/uploads/2021/11/logo-ifody-sexshop.webp"
 }
