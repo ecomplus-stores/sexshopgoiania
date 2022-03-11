@@ -5,6 +5,12 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-03-11T18:26:13.641Z",
+      "end": "2022-03-11T18:26:13.670Z"
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
