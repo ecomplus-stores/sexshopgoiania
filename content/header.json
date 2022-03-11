@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Frete Grátis para Goiânia acima de R$ 50,00",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -22,6 +22,6 @@
     "random": 6,
     "full_width": false
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true
 }
